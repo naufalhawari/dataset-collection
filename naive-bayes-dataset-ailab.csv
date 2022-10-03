@@ -1,0 +1,13 @@
+action1,action2,action3,action4
+punch,punch,kick,punch
+punch,kick,punch,special
+kick,punch,special,punch
+punch,special,punch,kick
+special,punch,kick,special
+punch,kick,special,punch
+kick,special,punch,kick
+special,punch,kick,kick
+kick,kick,kick,punch
+kick,kick,punch,special
+special,punch,punch,punch
+special,kick,special,kick
